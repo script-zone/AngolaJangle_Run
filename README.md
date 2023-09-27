@@ -2,11 +2,12 @@
 Projeto da Disciplina de Computação Gráfica 3ª ano UAN
 
 ## Como Rodar O projecto?
+# A forma mais simples é
 
-- [1 Instale o editor de texto vscode]
-- [2 - Instela a extensão live server]
-- [3 - Abra o jogo usando o live server]
-- [4 - Seja feliz e Aproveite]
+- 1 - Instalar o editor de código vscode
+- 2 - Instelar a extensão live server
+- 3 - Abrir o jogo usando o live server
+- 4 - Ser feliz e Aproveitar................
 
 ## Equipe
 
