@@ -1,0 +1,32 @@
+#main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#main p{
+    font-size: 32px;
+    color: black;
+    margin: 5px;
+}
+
+#main #Angola_Run_Main{
+    position: relative;
+}
+
+#main #Angola_Run_Main #winner{
+    position: absolute;
+    width: 1200px;
+    height: 786px;
+    text-align: center;
+    display: none;
+    justify-content: center;
+}
+
+#p1{
+    text-align:center;
+}
+
+#p2{
+    display:block;
+}
